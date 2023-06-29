@@ -3,7 +3,7 @@
 
 ## 足球和人工智能相关的思考
 
-* [球员在比赛中基本的策略](https://github.com/yacan8/blog/issues/3)
+* [球员在比赛中基本的策略](https://github.com/Jackgzhuang/blog/issues/2)
 
 
 
