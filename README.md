@@ -3,6 +3,7 @@
 
 ## 足球和人工智能相关的思考
 
+* [足球天才和人工智能的传奇](https://github.com/Jackgzhuang/blog/issues/3)
 * [球员在比赛中基本的策略](https://github.com/Jackgzhuang/blog/issues/2)
 * [场景1，假如球员](https://github.com/Jackgzhuang/blog/blob/main/post/post1.md)
 
